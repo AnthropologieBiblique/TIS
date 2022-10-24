@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 17
 - Luc 17
 - Lc 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 17

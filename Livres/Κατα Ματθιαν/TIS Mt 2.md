@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 2
 - Matthieu 2
 - Mt 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 2

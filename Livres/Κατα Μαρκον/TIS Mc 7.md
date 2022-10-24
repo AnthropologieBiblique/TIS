@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 7
 - Marc 7
 - Mc 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 7

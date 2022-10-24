@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 20
 - Matthieu 20
 - Mt 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 20

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ιωαννου α' 4
 - 1 Jean 4
 - 1 Jn 4
@@ -8,6 +8,7 @@ tags :
 - Bible/1Jn/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ιωαννου α' 4

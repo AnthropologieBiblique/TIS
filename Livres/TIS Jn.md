@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην
 - Jean
 - Jn
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην

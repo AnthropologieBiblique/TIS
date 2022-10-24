@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 13
 - Marc 13
 - Mc 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 13

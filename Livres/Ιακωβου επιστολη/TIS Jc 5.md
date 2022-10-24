@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ιακωβου επιστολη 5
 - Jacques 5
 - Jc 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ιακωβου επιστολη 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 16
 - Jean 16
 - Jn 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 16

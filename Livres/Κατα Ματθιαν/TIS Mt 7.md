@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 7
 - Matthieu 7
 - Mt 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 7

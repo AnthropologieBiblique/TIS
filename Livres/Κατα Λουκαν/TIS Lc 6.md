@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 6
 - Luc 6
 - Lc 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 6

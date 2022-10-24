@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 5
 - Apocalypse 5
 - Ap 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους
 - Romains
 - Rm
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους

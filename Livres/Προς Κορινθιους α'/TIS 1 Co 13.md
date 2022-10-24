@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους α' 13
 - 1 Corinthiens 13
 - 1 Co 13
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους α' 13

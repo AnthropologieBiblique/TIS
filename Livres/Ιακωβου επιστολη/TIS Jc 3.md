@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ιακωβου επιστολη 3
 - Jacques 3
 - Jc 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ιακωβου επιστολη 3

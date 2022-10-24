@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 1
 - Luc 1
 - Lc 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 1

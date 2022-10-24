@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 22
 - Matthieu 22
 - Mt 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 22

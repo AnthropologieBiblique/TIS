@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πετρου β'
 - 2 Pierre
 - 2 P
@@ -8,6 +8,7 @@ tags :
 - Bible/2P
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πετρου β'

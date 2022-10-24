@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 22
 - Apocalypse 22
 - Ap 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 22

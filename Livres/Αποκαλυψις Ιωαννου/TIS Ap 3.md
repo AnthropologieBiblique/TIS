@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 3
 - Apocalypse 3
 - Ap 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 3

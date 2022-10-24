@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ιακωβου επιστολη 4
 - Jacques 4
 - Jc 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ιακωβου επιστολη 4

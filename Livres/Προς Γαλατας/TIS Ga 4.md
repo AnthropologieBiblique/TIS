@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Γαλατας 4
 - Galates 4
 - Ga 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Γαλατας 4

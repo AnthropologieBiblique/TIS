@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Θιμοθεον β' 1
 - 2 Timothée 1
 - 2 Tm 1
@@ -8,6 +8,7 @@ tags :
 - Bible/2Tm/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Θιμοθεον β' 1

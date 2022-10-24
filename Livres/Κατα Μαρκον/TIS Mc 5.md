@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 5
 - Marc 5
 - Mc 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 5

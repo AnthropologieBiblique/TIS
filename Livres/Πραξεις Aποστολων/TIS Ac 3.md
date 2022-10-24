@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 3
 - Actes 3
 - Ac 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 3

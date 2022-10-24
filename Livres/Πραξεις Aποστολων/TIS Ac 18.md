@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 18
 - Actes 18
 - Ac 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 18

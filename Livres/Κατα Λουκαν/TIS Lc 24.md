@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 24
 - Luc 24
 - Lc 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 24

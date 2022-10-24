@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 9
 - Hébreux 9
 - He 9
@@ -8,6 +8,7 @@ tags :
 - Bible/He/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 9

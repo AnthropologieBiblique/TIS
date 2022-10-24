@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ιωαννου α' 3
 - 1 Jean 3
 - 1 Jn 3
@@ -8,6 +8,7 @@ tags :
 - Bible/1Jn/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ιωαννου α' 3

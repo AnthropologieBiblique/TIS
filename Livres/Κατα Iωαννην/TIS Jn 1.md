@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 1
 - Jean 1
 - Jn 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 1

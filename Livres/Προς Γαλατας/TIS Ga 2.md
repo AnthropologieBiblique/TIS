@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Γαλατας 2
 - Galates 2
 - Ga 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Γαλατας 2

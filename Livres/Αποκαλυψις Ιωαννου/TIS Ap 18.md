@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 18
 - Apocalypse 18
 - Ap 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 18

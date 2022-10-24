@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 2
 - Luc 2
 - Lc 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 2

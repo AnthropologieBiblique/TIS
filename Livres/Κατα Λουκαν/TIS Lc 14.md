@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 14
 - Luc 14
 - Lc 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 14

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων
 - Actes
 - Ac
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων

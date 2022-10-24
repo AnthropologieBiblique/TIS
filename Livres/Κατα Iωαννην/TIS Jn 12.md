@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 12
 - Jean 12
 - Jn 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 12

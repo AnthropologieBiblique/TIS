@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 3
 - Hébreux 3
 - He 3
@@ -8,6 +8,7 @@ tags :
 - Bible/He/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 3

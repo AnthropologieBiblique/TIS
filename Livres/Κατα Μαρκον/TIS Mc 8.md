@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 8
 - Marc 8
 - Mc 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 8

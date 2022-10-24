@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 1
 - Actes 1
 - Ac 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 1

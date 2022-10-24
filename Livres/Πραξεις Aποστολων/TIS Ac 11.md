@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 11
 - Actes 11
 - Ac 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 11

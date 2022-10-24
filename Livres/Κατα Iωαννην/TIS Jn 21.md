@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 21
 - Jean 21
 - Jn 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 21

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εφεσιους 3
 - Éphésiens 3
 - Ep 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εφεσιους 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 12
 - Actes 12
 - Ac 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 12

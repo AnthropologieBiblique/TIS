@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 10
 - Matthieu 10
 - Mt 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 10

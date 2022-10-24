@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 12
 - Apocalypse 12
 - Ap 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 12

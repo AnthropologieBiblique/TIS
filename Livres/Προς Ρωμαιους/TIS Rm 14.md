@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 14
 - Romains 14
 - Rm 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 14

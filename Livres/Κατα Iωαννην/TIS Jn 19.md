@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 19
 - Jean 19
 - Jn 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 19

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 15
 - Actes 15
 - Ac 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 26
 - Matthieu 26
 - Mt 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 26

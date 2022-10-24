@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 6
 - Actes 6
 - Ac 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 6

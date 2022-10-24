@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους α' 15
 - 1 Corinthiens 15
 - 1 Co 15
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους α' 15

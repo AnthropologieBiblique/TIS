@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 8
 - Luc 8
 - Lc 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 8

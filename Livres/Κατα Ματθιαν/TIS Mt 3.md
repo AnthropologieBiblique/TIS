@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 3
 - Matthieu 3
 - Mt 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 20
 - Jean 20
 - Jn 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 20

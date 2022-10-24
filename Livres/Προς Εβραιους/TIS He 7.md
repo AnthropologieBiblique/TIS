@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 7
 - Hébreux 7
 - He 7
@@ -8,6 +8,7 @@ tags :
 - Bible/He/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 7

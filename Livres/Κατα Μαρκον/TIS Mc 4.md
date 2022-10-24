@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 4
 - Marc 4
 - Mc 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 4

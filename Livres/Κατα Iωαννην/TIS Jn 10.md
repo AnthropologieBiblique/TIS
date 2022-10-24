@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 10
 - Jean 10
 - Jn 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 10

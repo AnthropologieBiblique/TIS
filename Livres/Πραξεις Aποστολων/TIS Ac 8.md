@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 8
 - Actes 8
 - Ac 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 8

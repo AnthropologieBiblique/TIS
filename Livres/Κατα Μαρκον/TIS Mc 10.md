@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 10
 - Marc 10
 - Mc 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 10

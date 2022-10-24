@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 13
 - Hébreux 13
 - He 13
@@ -8,6 +8,7 @@ tags :
 - Bible/He/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους α' 11
 - 1 Corinthiens 11
 - 1 Co 11
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους α' 11

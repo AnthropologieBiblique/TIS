@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 1
 - Marc 1
 - Mc 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 1

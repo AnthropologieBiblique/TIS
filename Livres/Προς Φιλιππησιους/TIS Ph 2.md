@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Φιλιππησιους 2
 - Philippiens 2
 - Ph 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ph/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Φιλιππησιους 2

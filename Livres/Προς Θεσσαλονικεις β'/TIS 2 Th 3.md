@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Θεσσαλονικεις β' 3
 - 2 Thessaloniciens 3
 - 2 Th 3
@@ -8,6 +8,7 @@ tags :
 - Bible/2Th/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Θεσσαλονικεις β' 3

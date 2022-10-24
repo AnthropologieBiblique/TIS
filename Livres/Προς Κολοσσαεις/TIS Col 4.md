@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κολοσσαεις 4
 - Colossiens 4
 - Col 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Col/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κολοσσαεις 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 14
 - Jean 14
 - Jn 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 14

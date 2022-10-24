@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 6
 - Romains 6
 - Rm 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 6

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 15
 - Luc 15
 - Lc 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 15

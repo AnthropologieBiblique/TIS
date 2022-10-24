@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κολοσσαεις
 - Colossiens
 - Col
@@ -8,6 +8,7 @@ tags :
 - Bible/Col
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κολοσσαεις

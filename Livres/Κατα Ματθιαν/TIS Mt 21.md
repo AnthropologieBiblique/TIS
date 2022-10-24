@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 21
 - Matthieu 21
 - Mt 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 21

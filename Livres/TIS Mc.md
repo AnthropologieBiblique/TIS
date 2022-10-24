@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον
 - Marc
 - Mc
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον

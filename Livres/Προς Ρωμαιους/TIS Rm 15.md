@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 15
 - Romains 15
 - Rm 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 13
 - Luc 13
 - Lc 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 13

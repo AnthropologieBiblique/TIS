@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους α' 8
 - 1 Corinthiens 8
 - 1 Co 8
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους α' 8

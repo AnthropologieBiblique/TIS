@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Τιτον 2
 - Tite 2
 - Tt 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Tt/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Τιτον 2

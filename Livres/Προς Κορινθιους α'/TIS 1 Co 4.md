@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους α' 4
 - 1 Corinthiens 4
 - 1 Co 4
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους α' 4

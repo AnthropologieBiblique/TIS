@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 9
 - Actes 9
 - Ac 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 9

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 16
 - Apocalypse 16
 - Ap 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 16

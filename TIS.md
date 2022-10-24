@@ -1,6 +1,7 @@
 ---
 tags : Bible, grec
 cssclass : grec
+direction : ltr
 ---
 # Tischendorf
 

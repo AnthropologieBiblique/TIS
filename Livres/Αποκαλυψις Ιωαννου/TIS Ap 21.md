@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 21
 - Apocalypse 21
 - Ap 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 21

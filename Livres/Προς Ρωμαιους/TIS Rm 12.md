@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 12
 - Romains 12
 - Rm 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 12

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 14
 - Matthieu 14
 - Mt 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 14

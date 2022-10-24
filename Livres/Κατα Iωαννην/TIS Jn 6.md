@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 6
 - Jean 6
 - Jn 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 6

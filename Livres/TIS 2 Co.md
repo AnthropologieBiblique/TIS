@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους β'
 - 2 Corinthiens
 - 2 Co
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους β'

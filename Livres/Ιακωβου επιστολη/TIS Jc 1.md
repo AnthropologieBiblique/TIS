@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ιακωβου επιστολη 1
 - Jacques 1
 - Jc 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ιακωβου επιστολη 1

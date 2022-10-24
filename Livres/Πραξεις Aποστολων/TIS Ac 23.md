@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 23
 - Actes 23
 - Ac 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 23

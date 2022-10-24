@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 17
 - Actes 17
 - Ac 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 17

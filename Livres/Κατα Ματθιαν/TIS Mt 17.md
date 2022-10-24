@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 17
 - Matthieu 17
 - Mt 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 17

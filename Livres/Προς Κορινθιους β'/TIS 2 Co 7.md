@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους β' 7
 - 2 Corinthiens 7
 - 2 Co 7
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους β' 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 17
 - Apocalypse 17
 - Ap 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 17

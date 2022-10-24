@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 7
 - Luc 7
 - Lc 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Θεσσαλονικεις α' 5
 - 1 Thessaloniciens 5
 - 1 Th 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1Th/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Θεσσαλονικεις α' 5

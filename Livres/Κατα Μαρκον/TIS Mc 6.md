@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 6
 - Marc 6
 - Mc 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 6

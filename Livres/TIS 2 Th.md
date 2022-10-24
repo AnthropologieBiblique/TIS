@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Θεσσαλονικεις β'
 - 2 Thessaloniciens
 - 2 Th
@@ -8,6 +8,7 @@ tags :
 - Bible/2Th
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Θεσσαλονικεις β'

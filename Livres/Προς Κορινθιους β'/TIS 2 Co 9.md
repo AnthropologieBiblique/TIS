@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους β' 9
 - 2 Corinthiens 9
 - 2 Co 9
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους β' 9

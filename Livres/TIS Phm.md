@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Φιλημονα
 - Philémon
 - Phm
@@ -8,6 +8,7 @@ tags :
 - Bible/Phm
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Φιλημονα

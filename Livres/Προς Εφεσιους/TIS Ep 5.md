@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εφεσιους 5
 - Éphésiens 5
 - Ep 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εφεσιους 5

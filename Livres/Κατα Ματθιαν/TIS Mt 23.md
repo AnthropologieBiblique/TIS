@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 23
 - Matthieu 23
 - Mt 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 23

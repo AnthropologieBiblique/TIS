@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κολοσσαεις 2
 - Colossiens 2
 - Col 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Col/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κολοσσαεις 2

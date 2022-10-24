@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους α' 14
 - 1 Corinthiens 14
 - 1 Co 14
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους α' 14

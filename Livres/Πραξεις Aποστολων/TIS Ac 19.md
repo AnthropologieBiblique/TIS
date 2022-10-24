@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 19
 - Actes 19
 - Ac 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 19

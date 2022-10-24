@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 15
 - Jean 15
 - Jn 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 15

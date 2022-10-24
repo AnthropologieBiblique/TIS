@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 13
 - Jean 13
 - Jn 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 13

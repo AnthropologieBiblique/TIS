@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 4
 - Actes 4
 - Ac 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 4

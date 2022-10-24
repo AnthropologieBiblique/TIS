@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 3
 - Marc 3
 - Mc 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 3

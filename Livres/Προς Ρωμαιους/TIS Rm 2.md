@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 2
 - Romains 2
 - Rm 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 2

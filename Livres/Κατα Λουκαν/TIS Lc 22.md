@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 22
 - Luc 22
 - Lc 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 22

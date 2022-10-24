@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 16
 - Matthieu 16
 - Mt 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 16

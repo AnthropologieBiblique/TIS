@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 17
 - Jean 17
 - Jn 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 17

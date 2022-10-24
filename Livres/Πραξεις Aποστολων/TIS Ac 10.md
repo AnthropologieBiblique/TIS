@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 10
 - Actes 10
 - Ac 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 10

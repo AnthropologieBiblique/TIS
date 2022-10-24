@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 12
 - Marc 12
 - Mc 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 12

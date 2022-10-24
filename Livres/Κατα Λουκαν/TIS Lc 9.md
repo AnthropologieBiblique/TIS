@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 9
 - Luc 9
 - Lc 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 9

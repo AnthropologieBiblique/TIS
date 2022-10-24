@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 15
 - Matthieu 15
 - Mt 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 15

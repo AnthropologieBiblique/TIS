@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 20
 - Apocalypse 20
 - Ap 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 20

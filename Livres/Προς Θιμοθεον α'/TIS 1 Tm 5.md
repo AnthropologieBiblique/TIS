@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Θιμοθεον α' 5
 - 1 Timothée 5
 - 1 Tm 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1Tm/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Θιμοθεον α' 5

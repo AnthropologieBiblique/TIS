@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους α' 16
 - 1 Corinthiens 16
 - 1 Co 16
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους α' 16

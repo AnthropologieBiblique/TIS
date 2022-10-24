@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Φιλιππησιους 4
 - Philippiens 4
 - Ph 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ph/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Φιλιππησιους 4

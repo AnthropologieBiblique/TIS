@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 1
 - Hébreux 1
 - He 1
@@ -8,6 +8,7 @@ tags :
 - Bible/He/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 1

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εφεσιους 6
 - Éphésiens 6
 - Ep 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εφεσιους 6

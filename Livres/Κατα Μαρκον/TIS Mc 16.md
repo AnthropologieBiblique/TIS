@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 16
 - Marc 16
 - Mc 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 16

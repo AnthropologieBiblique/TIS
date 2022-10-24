@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 9
 - Jean 9
 - Jn 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 9

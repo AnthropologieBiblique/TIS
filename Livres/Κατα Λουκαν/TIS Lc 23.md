@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 23
 - Luc 23
 - Lc 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 23

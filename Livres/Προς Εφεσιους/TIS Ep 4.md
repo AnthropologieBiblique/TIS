@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εφεσιους 4
 - Éphésiens 4
 - Ep 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εφεσιους 4

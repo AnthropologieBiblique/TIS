@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πετρου α' 4
 - 1 Pierre 4
 - 1 P 4
@@ -8,6 +8,7 @@ tags :
 - Bible/1P/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πετρου α' 4

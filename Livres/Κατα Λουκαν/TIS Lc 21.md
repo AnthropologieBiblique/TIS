@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 21
 - Luc 21
 - Lc 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 21

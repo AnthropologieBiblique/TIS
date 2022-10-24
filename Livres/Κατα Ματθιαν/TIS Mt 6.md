@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 6
 - Matthieu 6
 - Mt 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 6

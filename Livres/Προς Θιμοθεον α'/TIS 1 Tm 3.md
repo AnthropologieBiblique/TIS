@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Θιμοθεον α' 3
 - 1 Timothée 3
 - 1 Tm 3
@@ -8,6 +8,7 @@ tags :
 - Bible/1Tm/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Θιμοθεον α' 3

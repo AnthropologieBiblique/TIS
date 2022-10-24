@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 13
 - Matthieu 13
 - Mt 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 13

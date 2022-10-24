@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 11
 - Luc 11
 - Lc 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 11

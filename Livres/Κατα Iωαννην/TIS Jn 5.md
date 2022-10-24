@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 5
 - Jean 5
 - Jn 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 5

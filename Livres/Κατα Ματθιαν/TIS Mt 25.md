@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 25
 - Matthieu 25
 - Mt 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 25

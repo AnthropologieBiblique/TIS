@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 18
 - Jean 18
 - Jn 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 18

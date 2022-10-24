@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν
 - Matthieu
 - Mt
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν

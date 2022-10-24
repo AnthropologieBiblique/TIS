@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 4
 - Romains 4
 - Rm 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Φιλιππησιους 3
 - Philippiens 3
 - Ph 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ph/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Φιλιππησιους 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Γαλατας 1
 - Galates 1
 - Ga 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Γαλατας 1

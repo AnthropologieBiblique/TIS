@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 20
 - Actes 20
 - Ac 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 20

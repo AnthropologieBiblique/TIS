@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 8
 - Jean 8
 - Jn 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 8

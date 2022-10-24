@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 2
 - Actes 2
 - Ac 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 2

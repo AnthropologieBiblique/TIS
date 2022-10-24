@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 27
 - Matthieu 27
 - Mt 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/27
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 27

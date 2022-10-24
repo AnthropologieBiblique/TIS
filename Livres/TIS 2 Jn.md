@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ιωαννου
 - 2 Jean
 - 2 Jn
@@ -8,6 +8,7 @@ tags :
 - Bible/2Jn
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ιωαννου

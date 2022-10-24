@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 11
 - Matthieu 11
 - Mt 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 11

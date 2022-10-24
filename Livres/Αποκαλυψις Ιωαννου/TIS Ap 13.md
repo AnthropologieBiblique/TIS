@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 13
 - Apocalypse 13
 - Ap 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 13

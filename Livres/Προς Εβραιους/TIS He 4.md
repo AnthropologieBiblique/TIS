@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 4
 - Hébreux 4
 - He 4
@@ -8,6 +8,7 @@ tags :
 - Bible/He/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 4
 - Apocalypse 4
 - Ap 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 4

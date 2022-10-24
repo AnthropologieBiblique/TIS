@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Γαλατας 6
 - Galates 6
 - Ga 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Γαλατας 6

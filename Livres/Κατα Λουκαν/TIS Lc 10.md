@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 10
 - Luc 10
 - Lc 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 10

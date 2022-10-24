@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 15
 - Marc 15
 - Mc 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 15

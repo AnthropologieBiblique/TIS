@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 11
 - Hébreux 11
 - He 11
@@ -8,6 +8,7 @@ tags :
 - Bible/He/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 11

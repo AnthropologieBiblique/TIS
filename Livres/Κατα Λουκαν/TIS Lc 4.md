@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 4
 - Luc 4
 - Lc 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 4

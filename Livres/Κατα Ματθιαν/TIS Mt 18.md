@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 18
 - Matthieu 18
 - Mt 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 18

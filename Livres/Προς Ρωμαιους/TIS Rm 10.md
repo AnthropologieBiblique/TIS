@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 10
 - Romains 10
 - Rm 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 10

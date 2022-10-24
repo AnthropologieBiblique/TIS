@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 9
 - Marc 9
 - Mc 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 9

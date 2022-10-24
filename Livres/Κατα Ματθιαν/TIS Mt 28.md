@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 28
 - Matthieu 28
 - Mt 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 28

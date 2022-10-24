@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 11
 - Romains 11
 - Rm 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 11

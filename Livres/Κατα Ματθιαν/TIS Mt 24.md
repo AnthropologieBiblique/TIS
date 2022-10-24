@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 24
 - Matthieu 24
 - Mt 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 24

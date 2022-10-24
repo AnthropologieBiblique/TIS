@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 12
 - Matthieu 12
 - Mt 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 12

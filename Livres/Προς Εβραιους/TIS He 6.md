@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 6
 - Hébreux 6
 - He 6
@@ -8,6 +8,7 @@ tags :
 - Bible/He/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 6

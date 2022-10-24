@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 19
 - Matthieu 19
 - Mt 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 19

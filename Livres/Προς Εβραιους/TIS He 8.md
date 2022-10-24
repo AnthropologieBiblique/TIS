@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 8
 - Hébreux 8
 - He 8
@@ -8,6 +8,7 @@ tags :
 - Bible/He/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 8

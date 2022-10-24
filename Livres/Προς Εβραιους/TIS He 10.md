@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 10
 - Hébreux 10
 - He 10
@@ -8,6 +8,7 @@ tags :
 - Bible/He/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 10

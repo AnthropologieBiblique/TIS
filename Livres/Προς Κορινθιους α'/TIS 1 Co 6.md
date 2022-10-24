@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους α' 6
 - 1 Corinthiens 6
 - 1 Co 6
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους α' 6

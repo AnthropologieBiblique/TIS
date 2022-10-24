@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Θιμοθεον α' 4
 - 1 Timothée 4
 - 1 Tm 4
@@ -8,6 +8,7 @@ tags :
 - Bible/1Tm/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Θιμοθεον α' 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 7
 - Apocalypse 7
 - Ap 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 7

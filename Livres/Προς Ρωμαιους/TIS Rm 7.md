@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 7
 - Romains 7
 - Rm 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 7

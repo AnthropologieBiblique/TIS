@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 22
 - Actes 22
 - Ac 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 22

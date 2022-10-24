@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 12
 - Luc 12
 - Lc 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 12

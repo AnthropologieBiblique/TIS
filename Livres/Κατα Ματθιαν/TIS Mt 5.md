@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 5
 - Matthieu 5
 - Mt 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 5

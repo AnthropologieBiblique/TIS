@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 11
 - Marc 11
 - Mc 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 11

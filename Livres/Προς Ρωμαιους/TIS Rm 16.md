@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 16
 - Romains 16
 - Rm 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 16

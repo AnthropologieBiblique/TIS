@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 19
 - Apocalypse 19
 - Ap 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 19

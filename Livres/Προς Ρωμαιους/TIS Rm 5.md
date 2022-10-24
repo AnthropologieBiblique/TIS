@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 5
 - Romains 5
 - Rm 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 5

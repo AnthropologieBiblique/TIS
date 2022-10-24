@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ιωαννου γ'
 - 3 Jean
 - 3 Jn
@@ -8,6 +8,7 @@ tags :
 - Bible/3Jn
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ιωαννου γ'

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Τιτον 3
 - Tite 3
 - Tt 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Tt/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Τιτον 3

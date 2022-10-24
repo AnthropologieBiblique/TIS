@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 16
 - Luc 16
 - Lc 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 16

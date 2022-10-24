@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 24
 - Actes 24
 - Ac 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 24

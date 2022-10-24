@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 26
 - Actes 26
 - Ac 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 26

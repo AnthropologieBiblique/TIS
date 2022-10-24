@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 13
 - Actes 13
 - Ac 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 13

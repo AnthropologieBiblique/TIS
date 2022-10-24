@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 4
 - Matthieu 4
 - Mt 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 4

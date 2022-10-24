@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 2
 - Marc 2
 - Mc 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 2

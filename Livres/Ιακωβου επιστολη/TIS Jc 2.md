@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ιακωβου επιστολη 2
 - Jacques 2
 - Jc 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ιακωβου επιστολη 2

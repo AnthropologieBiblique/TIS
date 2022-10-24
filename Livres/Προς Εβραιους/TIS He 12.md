@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 12
 - Hébreux 12
 - He 12
@@ -8,6 +8,7 @@ tags :
 - Bible/He/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 12

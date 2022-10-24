@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 21
 - Actes 21
 - Ac 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 21

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εφεσιους 1
 - Éphésiens 1
 - Ep 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εφεσιους 1

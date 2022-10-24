@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 14
 - Actes 14
 - Ac 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 14

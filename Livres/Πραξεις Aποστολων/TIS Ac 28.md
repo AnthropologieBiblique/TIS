@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 28
 - Actes 28
 - Ac 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 28

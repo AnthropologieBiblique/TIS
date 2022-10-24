@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 25
 - Actes 25
 - Ac 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 25

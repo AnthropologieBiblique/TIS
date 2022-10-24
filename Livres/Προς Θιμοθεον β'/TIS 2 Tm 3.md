@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Θιμοθεον β' 3
 - 2 Timothée 3
 - 2 Tm 3
@@ -8,6 +8,7 @@ tags :
 - Bible/2Tm/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Θιμοθεον β' 3

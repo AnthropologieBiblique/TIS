@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 18
 - Luc 18
 - Lc 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 18

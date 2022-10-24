@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 27
 - Actes 27
 - Ac 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/27
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 27

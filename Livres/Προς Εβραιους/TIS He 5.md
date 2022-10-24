@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 5
 - Hébreux 5
 - He 5
@@ -8,6 +8,7 @@ tags :
 - Bible/He/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 5

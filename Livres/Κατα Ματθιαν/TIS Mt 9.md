@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Ματθιαν 9
 - Matthieu 9
 - Mt 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Ματθιαν 9

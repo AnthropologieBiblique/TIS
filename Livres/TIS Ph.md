@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Φιλιππησιους
 - Philippiens
 - Ph
@@ -8,6 +8,7 @@ tags :
 - Bible/Ph
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Φιλιππησιους

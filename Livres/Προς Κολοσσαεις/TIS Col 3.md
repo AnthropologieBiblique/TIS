@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κολοσσαεις 3
 - Colossiens 3
 - Col 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Col/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κολοσσαεις 3

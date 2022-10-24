@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εφεσιους
 - Éphésiens
 - Ep
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εφεσιους

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Ρωμαιους 13
 - Romains 13
 - Rm 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Ρωμαιους 13

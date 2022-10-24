@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Εβραιους 2
 - Hébreux 2
 - He 2
@@ -8,6 +8,7 @@ tags :
 - Bible/He/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Εβραιους 2

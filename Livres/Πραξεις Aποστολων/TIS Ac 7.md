@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 7
 - Actes 7
 - Ac 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 7

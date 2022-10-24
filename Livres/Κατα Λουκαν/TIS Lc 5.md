@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 5
 - Luc 5
 - Lc 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 5

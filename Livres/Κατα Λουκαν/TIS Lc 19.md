@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 19
 - Luc 19
 - Lc 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 19

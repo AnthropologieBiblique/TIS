@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Θεσσαλονικεις α' 3
 - 1 Thessaloniciens 3
 - 1 Th 3
@@ -8,6 +8,7 @@ tags :
 - Bible/1Th/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Θεσσαλονικεις α' 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Πραξεις Aποστολων 5
 - Actes 5
 - Ac 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Πραξεις Aποστολων 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Μαρκον 14
 - Marc 14
 - Mc 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Μαρκον 14

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προς Κορινθιους α' 3
 - 1 Corinthiens 3
 - 1 Co 3
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προς Κορινθιους α' 3

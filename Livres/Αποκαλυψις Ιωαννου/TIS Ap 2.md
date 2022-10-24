@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 2
 - Apocalypse 2
 - Ap 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 2

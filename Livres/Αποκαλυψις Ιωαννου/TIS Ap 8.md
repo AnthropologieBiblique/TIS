@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 8
 - Apocalypse 8
 - Ap 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 8

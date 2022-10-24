@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 9
 - Apocalypse 9
 - Ap 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 9

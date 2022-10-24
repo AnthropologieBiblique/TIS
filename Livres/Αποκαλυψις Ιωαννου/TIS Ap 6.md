@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 6
 - Apocalypse 6
 - Ap 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 6

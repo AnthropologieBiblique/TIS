@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Iωαννην 11
 - Jean 11
 - Jn 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Iωαννην 11

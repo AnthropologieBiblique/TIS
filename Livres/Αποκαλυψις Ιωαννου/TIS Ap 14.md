@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Αποκαλυψις Ιωαννου 14
 - Apocalypse 14
 - Ap 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Αποκαλυψις Ιωαννου 14

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κατα Λουκαν 3
 - Luc 3
 - Lc 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κατα Λουκαν 3
